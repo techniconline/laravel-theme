@@ -1,19 +1,11 @@
 ## Theme Management for Laravel
-
-### For Laravel 4, please use the [v1.x branch](https://github.com/teepluss/laravel-theme/tree/v1.x)!
-
-Theme is a theme management for Laravel 5, it is the easiest way to organize your skins, layouts and assets.
-Right now Theme supports PHP, Blade, and Twig.
-
 ### Installation
 
-- [Theme on Packagist](https://packagist.org/packages/teepluss/theme)
-- [Theme on GitHub](https://github.com/teepluss/laravel-theme)
 
 To get the latest version of Theme simply require it in your `composer.json` file.
 
 ~~~
-"teepluss/theme": "^2.0"
+"techniconline/theme": "^2.0"
 ~~~
 
 You'll then need to run `composer install` to download it and have the autoloader updated.
